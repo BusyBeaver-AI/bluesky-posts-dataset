@@ -1,13 +1,6 @@
 # Link to our mirror: https://api.bbvr.ai/public/two-million-bluesky-posts/
 
 
----
-license: apache-2.0
-language:
-- en
-tags:
-- bluesky
----
 ## 2 Million Bluesky Posts
 
 This dataset contains 2 million public posts collected from Bluesky Social's firehose API, intended for machine learning research and experimentation with social media data.
